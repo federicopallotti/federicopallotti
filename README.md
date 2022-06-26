@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @federicopallotti
-- 👀 I’m interested in Computer Vision, Geometry and Algorithms
+- 👀 I’m interested in Computer Vision, Computational Geometry and Algorithms
 - 🌱 I’m currently completing my master degree in Visual Computing/AI
 - 💞️ I’m looking to collaborate on interesting projects on the subject
 - 📫 How to reach me: federicopallotti1@gmail.com
